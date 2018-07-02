@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: package
+Version: 0.0.1
+Summary: Highlighting Python's __init__ for libraries.
+Home-page: https://github.com/yngtodd/package
+Author: Todd Young
+Author-email: youngmt1@ornl.gov
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

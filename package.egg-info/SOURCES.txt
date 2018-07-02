@@ -1,0 +1,11 @@
+README.rst
+setup.py
+package/__init__.py
+package.egg-info/PKG-INFO
+package.egg-info/SOURCES.txt
+package.egg-info/dependency_links.txt
+package.egg-info/top_level.txt
+package/subone/__init__.py
+package/subone/modone.py
+package/subtwo/__init__.py
+package/subtwo/modone.py
